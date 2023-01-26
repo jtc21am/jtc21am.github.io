@@ -8,6 +8,13 @@
     </url>
     
     <url>
+        <loc>https://dusign.net/photography/</loc>
+        <lastmod>2023-01-26T14:31:41.540Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
         <loc>https://dusign.net/about/</loc>
         <lastmod>2023-01-23T18:54:06.691Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -17,13 +24,6 @@
     <url>
         <loc>https://dusign.net/404.html</loc>
         <lastmod>2023-01-23T02:43:59.295Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>https://dusign.net/photography/</loc>
-        <lastmod>2023-01-23T02:43:44.497Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
