@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://dusign.net/about/index.html</loc>
+    
+    <lastmod>2023-02-09T17:55:15.964Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://dusign.net/2023/01/26/Weight-Converter-GUI/</loc>
     
     <lastmod>2023-01-26T15:11:49.761Z</lastmod>
@@ -26,13 +33,6 @@
     <loc>https://dusign.net/photography/index.html</loc>
     
     <lastmod>2023-01-26T14:31:41.540Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://dusign.net/about/index.html</loc>
-    
-    <lastmod>2023-01-23T18:54:06.691Z</lastmod>
     
   </url>
   
